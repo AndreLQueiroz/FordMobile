@@ -154,15 +154,15 @@ O projeto resolve dois problemas:
 
 Desenvolvido por você 🚀
 
-*Andre Queiroz Rm554503
+Andre Queiroz Rm554503
 
-*Paulo Poças Rm556080
+Paulo Poças Rm556080
 
-*Rafael Bocchi Rm557603
+Rafael Bocchi Rm557603
 
-*Rafael Oliveira Rm554736
+Rafael Oliveira Rm554736
 
-*Marcos Vinicius Rm555490
+Marcos Vinicius Rm555490
 
 ---
 
